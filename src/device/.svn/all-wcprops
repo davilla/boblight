@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/468/trunk/src/device
+END
+device.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/468/trunk/src/device/device.cpp
+END
+deviceola.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/444/trunk/src/device/deviceola.h
+END
+devicers232.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/423/trunk/src/device/devicers232.h
+END
+devicepopen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/421/trunk/src/device/devicepopen.cpp
+END
+device.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/468/trunk/src/device/device.h
+END
+devicepopen.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/277/trunk/src/device/devicepopen.h
+END
+deviceibelight.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/434/trunk/src/device/deviceibelight.cpp
+END
+devicesound.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/406/trunk/src/device/devicesound.cpp
+END
+devicespi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/467/trunk/src/device/devicespi.cpp
+END
+deviceibelight.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/434/trunk/src/device/deviceibelight.h
+END
+deviceltbl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/423/trunk/src/device/deviceltbl.cpp
+END
+devicesound.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/257/trunk/src/device/devicesound.h
+END
+devicespi.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/459/trunk/src/device/devicespi.h
+END
+deviceltbl.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/277/trunk/src/device/deviceltbl.h
+END
+devicedioder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/423/trunk/src/device/devicedioder.cpp
+END
+devicers232.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/448/trunk/src/device/devicers232.cpp
+END
+deviceola.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/444/trunk/src/device/deviceola.cpp
+END
+devicedioder.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/314/trunk/src/device/devicedioder.h
+END
