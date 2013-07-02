@@ -1,0 +1,15 @@
+*.o
+*.la
+*.lo
+Makefile
+config.h
+config.log
+config.status
+libtool
+src/.deps/
+src/.libs/
+src/Makefile
+src/boblight-X11
+src/boblight-constant
+src/boblightd
+stamp-h1
